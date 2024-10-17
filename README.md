@@ -1,16 +1,42 @@
-# appchallenge
+# App Challenge
 
-A new Flutter project.
+## Introduction:
+A Flutter application that allows users to browse and search for characters from the Rick and Morty series. Users can view character details, save their favorite characters, and search for specific characters.
 
-## Getting Started
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Libraries](#libraries)
+- [Project Structure](#project-structure)
+- [APK Link](#apk-link)
 
-This project is a starting point for a Flutter application.
+## Features:
+- List of characters
+- Character detail view
+- Search functionality for characters
+- Favorite characters feature
+- Pagination for character listing
+- Unit Testing
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries:
+- Flutter (version)
+- sqflite for SQLite database
+- http for network requests
+- provider
+- path_provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Structure:
+- **lib**
+  - **components**: UI components
+  - **config**: Configuration files
+  - **controllers**: State management
+  - **di**: Dependency injection
+  - **resources**: Resources like images and assets
+  - **routes**: Application routes
+  - **screen**: Different screens of the app
+  - **services**: Network services
+  - **styles**: Styling constants
+  - **utils**: Utility functions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APK Link G-Drive:
+https://drive.google.com/drive/folders/13hTD6x_ergAFRmQ4pElFOGQlRiXLrWwO?usp=sharing

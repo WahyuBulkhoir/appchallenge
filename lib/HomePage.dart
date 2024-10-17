@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Rick and Morty Characters'),
+        title: Text('Rick & Morty Characters'),
         actions: [
           IconButton(
             icon: Icon(Icons.search),
